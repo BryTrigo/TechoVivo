@@ -3,4 +3,5 @@ matplotlib
 reportlab
 pandas
 numpy
+fpdf
 plotly
